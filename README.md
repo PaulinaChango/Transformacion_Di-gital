@@ -26,6 +26,3 @@ En un mundo digitalizado, los datos se recolectan masivamente. La Ciencia de Dat
 - Control de versiones con Git.
 - Repositorio organizado con un README claro.
 
-[Tu nombre]  
-Estudiante de Ciencia de Datos  
-[Fecha]
